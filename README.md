@@ -1,2 +1,2 @@
 # https://lordmary.github.io/memorialtlous.github.io/
-web site em homenagem ao jogo the last of us
+web site em homenagem ao jogo the last of us, apenas clicar no link :D
