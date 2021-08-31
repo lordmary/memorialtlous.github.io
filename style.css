@@ -1,13 +1,13 @@
 
-@media screen and (min-width: 501px) and (max-width: 800px{
+@media screen and (min-width: 0px) and (max-width: 500px){
  	
  	img{
  		width:100%;
   	}
- 	article{
+ 	h1{
  		margin-left: 4px;
  	}
- 	article p{
+ 	center{
  		text-align: justify;
  	}
  	li{
