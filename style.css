@@ -10,12 +10,9 @@
  	center{
  		text-align: justify;
  	}
- 	div#menu{
+ 	#menu{
  		font-size: 25px;
  	}
 }
 
-div {
-  margin-bottom: 30px;
-}
 
