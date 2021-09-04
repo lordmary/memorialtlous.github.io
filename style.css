@@ -13,6 +13,9 @@
  	#menu{
  		font-size: 25px;
  	}
+ #fb-root{
+  max-width: 100vw;
+ }
 }
 
 
