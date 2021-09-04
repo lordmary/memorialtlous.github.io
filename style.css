@@ -10,7 +10,12 @@
  	center{
  		text-align: justify;
  	}
- 	div id{
+ 	div#menu{
  		font-size: 25px;
  	}
 }
+
+div {
+  margin-bottom: 30px;
+}
+
