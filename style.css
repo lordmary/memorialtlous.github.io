@@ -8,15 +8,16 @@
  		margin-left: 4px;
    font-size: 25px;
  	}
+
  	center{
  		text-align: justify;
  	}
  	#menu{
- 		font-size: 25px;
+ 		font-size: 40px;
  	}
  #fb-root{
   max-width: 100vw;
-  font-size: 25px;
+  font-size: 40px;
  }
 }
 
