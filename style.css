@@ -12,7 +12,7 @@
  	center{
  		text-align: justify;
  	}
- 	#menu{
+ 	#menu ul li a{
  		font-size: 40px;
  	}
  #fb-root{
